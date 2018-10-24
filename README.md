@@ -1,0 +1,2 @@
+# macro-
+macro word exploit
